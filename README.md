@@ -3,7 +3,7 @@
 <h4>Super SSH (General Skills)</h4>
 <p>Super SSH is the first and lowest point challenge in Pico CTF as a whole. The goal is to connect with a server through SSH.</p>
 ![image](https://github.com/bbunny27/PicoCTFWriteUp2024/assets/143891068/5bd17e06-ef17-4dc5-905d-86e78a5e7df8)
-<p> We will use the following command to connect to the server: ssh ctf-player@titan.picoctf.net -p 50368 
-The password we will need is 1ad5be0d and with that we are in! Our flag is picoCTF{s3cur3_c0nn3ct10n_07a987ac} </p>
+<p> We will use the following command to connect to the server: ssh ctf-player@titan.picoctf.net -p 50368 </p>
+<p>The password we will need is 1ad5be0d and with that we are in! Our flag is picoCTF{s3cur3_c0nn3ct10n_07a987ac} </p>
 
 
