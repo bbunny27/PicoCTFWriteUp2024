@@ -6,4 +6,6 @@
 <p> We will use the following command to connect to the server: ssh ctf-player@titan.picoctf.net -p 50368 </p>
 <p>The password we will need is 1ad5be0d and with that we are in! Our flag is picoCTF{s3cur3_c0nn3ct10n_07a987ac} </p>
 
-
+<h4>Bookmarklet</h4>
+<p>Why search for the flag when I can make a bookmarklet to print it for me? Browse here, and find the flag!</p>
+<p>This is seemingly a pretty straight forward question. Based on what I know, I believe the challenge wants us to run a bookmarklet (javascript in the browser) in orderf to get the flag.</p>
