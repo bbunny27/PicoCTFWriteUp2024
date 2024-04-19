@@ -9,4 +9,8 @@
 <h4>Bookmarklet</h4>
 <p>Why search for the flag when I can make a bookmarklet to print it for me? Browse here, and find the flag!</p>
 <p>This is seemingly a pretty straight forward question. Based on what I know, I believe the challenge wants us to run a bookmarklet (javascript in the browser) in order to get the flag.</p>
-<img src='
+<p>Here is the website.</p>
+<img src='https://github.com/bbunny27/PicoCTFWriteUp2024/blob/main/bookmarklet1.PNG'>
+<p>As you can see, it's just some javascript code for us to save as a bookmark and run. When I do that, I get this pop up:</p>
+<img src='https://github.com/bbunny27/PicoCTFWriteUp2024/blob/main/success.PNG'> 
+<p>Success! The Flag is: picoCTF{p@f3_turn3r_0c0d211f}</p>
