@@ -14,3 +14,6 @@
 <p>As you can see, it's just some javascript code for us to save as a bookmark and run. When I do that, I get this pop up:</p>
 <img src='https://github.com/bbunny27/PicoCTFWriteUp2024/blob/main/success.PNG'> 
 <p>Success! The Flag is: picoCTF{p@f3_turn3r_0c0d211f}</p>
+
+<h4>Commitment Issues</h4>
+<p>I accidentally wrote the flag down. Good thing I deleted it! You download the challenge files here:</p>
