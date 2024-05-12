@@ -17,3 +17,4 @@
 
 <h4>Commitment Issues</h4>
 <p>I accidentally wrote the flag down. Good thing I deleted it! You download the challenge files here:</p>
+<p>The Downloaded file says:</p>
